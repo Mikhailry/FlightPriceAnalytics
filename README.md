@@ -8,7 +8,7 @@ In our analysis, we derive insights about the trends in flight prices, the cheap
 compare our results with the study done by ‘Hopper.com’. Secondly, we create a vacation recommendation engine, by using flight
 data collected and combining it with points of interest data in those specific locations to inspire a person for the next travel.
 
-[Full report can be found here](https://github.com/mathewjamesa/FlightPriceAnalytics/blob/master/Flight%20Analytics%20Report.pdf)
+[Full report can be found here](https://github.com/Mikhailry/FlightPriceAnalytics/blob/master/Flight%20Analytics%20Report.pdf)
 
 [The interactive dashboard created for travel recommendation can be found here](https://public.tableau.com/profile/mathew.james.athoopallil#!/vizhome/Inspiration_0/Inspiration)
 
