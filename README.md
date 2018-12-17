@@ -10,7 +10,7 @@ data collected and combining it with points of interest data in those specific l
 
 [Full report can be found here](https://github.com/Mikhailry/FlightPriceAnalytics/blob/master/Flight%20Analytics%20Report.pdf)
 
-[The interactive dashboard created for travel recommendation can be found here](https://public.tableau.com/profile/mathew.james.athoopallil#!/vizhome/Inspiration_0/Inspiration)
+[The interactive dashboard created for travel recommendation can be found here](https://public.tableau.com/profile/mikhailr#!/vizhome/Inspiration_1/Inspiration)
 
-[The trend analysis of flight prices can be found here](https://public.tableau.com/profile/mathew.james.athoopallil#!/vizhome/FlightPriceAnalytics/FlightPriceAnalysis)
+[The trend analysis of flight prices can be found here](https://public.tableau.com/profile/mikhailr#!/vizhome/FlightPriceAnalytics_0/FlightPriceAnalysis)
 
